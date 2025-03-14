@@ -46,6 +46,7 @@ body {
     }
 
     .container-desc p {
+        font-style: italic;
         font-size: 24px;
         line-height: 30px;
     }
@@ -139,8 +140,8 @@ body {
     }
 
 nav p {
-
-    font-weight: bold;
+    font-family: Impact, fantasy;
+    font-weight: 400;
     font-size: 20px;
 }
 
